@@ -34,7 +34,6 @@ class ProductManager {
         }
     }
     
-    
     getProducts () {
         return this.products
     }
